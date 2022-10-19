@@ -35,3 +35,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # NodeSend Front
  Proyecto Realizado con las tecnologias de React, Next, ContextApi, Axios, Reducers y Server Side Props
+ 
+# Dependencias
+Hemos usado las siguientes dependencias:
+
+ * formik
+ * yup
+ * tailwind.css
+ * dropzone
